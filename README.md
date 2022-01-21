@@ -7,7 +7,7 @@
   <h3>:man_technologist: Sobre mim</h3>
   <ul>
     <li>:mortar_board: Estudante de Desenvolvimento de Software e Engenheiro Mecânico</li>
-    <li>:books: Aprendi sobre as ferramentas do FrontEnd e suas aplitudes</li>
+    <li>:books: Aprendi sobre as ferramentas do FrontEnd e suas amplitudes</li>
     <li>:book: Atualmente estou aprendo manipular Docker dentro do tópico BackEnd</li>
     <li>:computer: Empolgado pela realização de um objetivo profissional, atuar com tecnologia</li>
     <li>:family: Família presente e apoioando minha caminhada de aprendizado</li>
@@ -40,9 +40,8 @@
 
 #
 
-<section>
-  <nav>
-    <h3>:iphone: Contato</h3>
+<h3 align="center">:iphone: Contato</h3>
+<section align="center">
     <a href="//www.linkedin.com/in/welcksonvalentim">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -52,7 +51,6 @@
     <a href="hhtps://instagram.com/welcksonvalentim">
       <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-  </nav>
 </section>
 
 #
@@ -67,12 +65,12 @@
   <img align="right" width=300px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa programadora">
   <h3>:man_technologist: About Me</h3>
   <ul>
-    <li>:mortar_board: Estudante de Desenvolvimento de Software e Engenheiro Mecânico</li>
-    <li>:books: Aprendi sobre as ferramentas do FrontEnd e suas aplitudes</li>
-    <li>:book: Atualmente estou aprendo manipular Docker dentro do tópico BackEnd</li>
-    <li>:computer: Empolgado pela realização de um objetivo profissional, atuar com tecnologia</li>
-    <li>:family: Família presente e apoioando minha caminhada de aprendizado</li>
-    <li>:coffee: Xícaras de café podem proporcionar bons momentos</li>
+    <li>:mortar_board: Software Development Student and Mechanical Engineer</li>
+    <li>:books: I learned about FrontEnd tools and their applications</li>
+    <li>:book: I’m currently learning manipulate Docker inside BackEnd</li>
+    <li>:computer: I am happy for the accomplishment of a professional objective, to act with technology</li>
+    <li>:family: Family present and supporting my learning journey</li>
+    <li>:coffee: Cups of coffee can provide good experiences</li>
   </ul>
 </section>
 
@@ -100,10 +98,8 @@
 </section>
 
 #
-
-<section>
-  <nav>
-    <h3>:iphone: Connect with Me</h3>
+<h3 align="center">:iphone: Connect with Me</h3>
+<section align="center">
     <a href="//www.linkedin.com/in/welcksonvalentim">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -113,7 +109,6 @@
     <a href="hhtps://instagram.com/welcksonvalentim">
       <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-  </nav>
 </section>
   
  
