@@ -1,6 +1,8 @@
-### Olá! Meu nome é Welckson:wave:
 <main>
-  <section>
+  <h1>
+    <img width=50px src="https://media1.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47jmfo8clqckfcs7u3u23kjgq2pwb9k2wpersjmy6h&rid=giphy.gif&ct=g" alt="GIF Olá">Meu nome é Welckson
+  </h1>
+  <section max-width: 500px;>
     <h3>:man_technologist: Sobre mim</h3>
     <ul>
       <li>:mortar_board: Estudante de Desenvolvimento de Software e Engenheiro Mecânico</li>
@@ -10,7 +12,7 @@
       <li>:coffee: Xícaras de café podem proporcionar bons momentos</li>
     </ul>
   </section>
-  #
+  
   <section>
     <h3>:pushpin: Tecnologias</h3>
     <ul>
@@ -34,26 +36,11 @@
   </nav>
   
   <section>
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa     programadora">
+    <img width=300px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa     programadora">
   </section>
   
 </main>
 
-                                                                                                     
-
-<!--
-**WelcksonValentim-Turma15-TriboB/WelcksonValentim-Turma15-TriboB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
 
 ### Hi there! I'm Welckson👋
