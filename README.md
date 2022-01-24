@@ -3,7 +3,7 @@
 </h1>
 
 <section align="left">
-  <img align="right" width=300px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa programadora">
+  <img align="right" width=270px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa programadora">
   <h3>:man_technologist: Sobre mim</h3>
   <ul>
     <li>:mortar_board: Estudante de Desenvolvimento de Software e Engenheiro Mecânico</li>
@@ -18,7 +18,7 @@
 #
 
 <section align="center">
-  <img align="right"  width=300px src="https://raulgb.com/images/htmlCSSJsReactLogos.jpg" alt="Imagem de Frameworks (HTML. CSS, JAVASCRIPT, REACT)" />
+  <img align="right"  width=270px src="https://raulgb.com/images/htmlCSSJsReactLogos.jpg" alt="Imagem de Frameworks (HTML. CSS, JAVASCRIPT, REACT)" />
   <h3 align="left">:pushpin: Tecnologias</h3>
   <ul align="left">
     <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub</li>
@@ -62,7 +62,7 @@
 </h1>
 
 <section align="left">
-  <img align="right" width=300px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa programadora">
+  <img align="right" width=270px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa programadora">
   <h3>:man_technologist: About Me</h3>
   <ul>
     <li>:mortar_board: Software Development Student and Mechanical Engineer</li>
@@ -77,7 +77,7 @@
 #
 
 <section align="center">
-  <img align="right"  width=300px src="https://raulgb.com/images/htmlCSSJsReactLogos.jpg" alt="Imagem de Frameworks (HTML. CSS, JAVASCRIPT, REACT)" />
+  <img align="right"  width=270px src="https://raulgb.com/images/htmlCSSJsReactLogos.jpg" alt="Imagem de Frameworks (HTML. CSS, JAVASCRIPT, REACT)" />
   <h3 align="left">:pushpin: Tech Stack</h3>
   <ul align="left">
     <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub</li>
