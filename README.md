@@ -10,7 +10,7 @@
     <li>:books: Aprendi sobre as ferramentas do FrontEnd e suas amplitudes</li>
     <li>:book: Atualmente estou aprendo manipular Docker dentro do tópico BackEnd</li>
     <li>:computer: Empolgado pela realização de um objetivo profissional, atuar com tecnologia</li>
-    <li>:family: Família presente e apoioando minha caminhada de aprendizado</li>
+    <li>:family: Família presente e apoiando minha caminhada de aprendizado</li>
     <li>:coffee: Xícaras de café podem proporcionar bons momentos</li>
   </ul>
 </section>
