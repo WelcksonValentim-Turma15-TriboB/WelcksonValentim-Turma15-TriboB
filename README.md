@@ -21,9 +21,9 @@
   <img align="right"  width=270px src="https://raulgb.com/images/htmlCSSJsReactLogos.jpg" alt="Imagem de Frameworks (HTML. CSS, JAVASCRIPT, REACT)" />
   <h3 align="left">:pushpin: Tecnologias</h3>
   <ul align="left">
-    <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub</li>
+    <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
-    <li align="left">:white_check_mark: Docker</li>
+    <li align="left">:white_check_mark: Docker | SQL </li>
   </ul>
 </section>
 
@@ -80,9 +80,9 @@
   <img align="right"  width=270px src="https://raulgb.com/images/htmlCSSJsReactLogos.jpg" alt="Imagem de Frameworks (HTML. CSS, JAVASCRIPT, REACT)" />
   <h3 align="left">:pushpin: Tech Stack</h3>
   <ul align="left">
-    <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub</li>
+    <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
-    <li align="left">:white_check_mark: Docker</li>
+    <li align="left">:white_check_mark: Docker | SQL </li>
   </ul>
 </section>
 
