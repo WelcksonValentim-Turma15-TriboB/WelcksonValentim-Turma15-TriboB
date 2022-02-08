@@ -31,10 +31,10 @@
 
 <section>
   <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=585px src="https://github-readme-stats.vercel.app/api?username=WelcksonValentim-Turma15-TriboB&show_icons=true&theme=dark)">
+    <img width=535px src="https://github-readme-stats.vercel.app/api?username=WelcksonValentim-Turma15-TriboB&show_icons=true&theme=dark)">
   </a>
     <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=340px src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelcksonValentim-Turma15-TriboB&langs_count=8)">
+    <img width=310px src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelcksonValentim-Turma15-TriboB&langs_count=8)">
   </a>
 </section>
 
@@ -90,10 +90,10 @@
 
 <section>
   <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=585px src="https://github-readme-stats.vercel.app/api?username=WelcksonValentim-Turma15-TriboB&show_icons=true&theme=dark)">
+    <img width=535px src="https://github-readme-stats.vercel.app/api?username=WelcksonValentim-Turma15-TriboB&show_icons=true&theme=dark)">
   </a>
     <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=340px src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelcksonValentim-Turma15-TriboB&langs_count=8)">
+    <img width=310px src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelcksonValentim-Turma15-TriboB&langs_count=8)">
   </a>
 </section>
 
