@@ -30,11 +30,11 @@
 #
 
 <section>
-  <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=515px src="https://github-readme-stats.vercel.app/api?username=WelcksonValentim-Turma15-TriboB&show_icons=true&theme=dark)">
+  <a href="https://github.com/welcksonvalentim" target="blank">
+    <img width=515px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
   </a>
-    <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=297px src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelcksonValentim-Turma15-TriboB&langs_count=8)">
+    <a href="https://github.com/welcksonvalentim" target="blank">
+    <img width=297px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
   </a>
 </section>
 
@@ -89,11 +89,11 @@
 #
 
 <section>
-  <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=515px src="https://github-readme-stats.vercel.app/api?username=WelcksonValentim-Turma15-TriboB&show_icons=true&theme=dark)">
+  <a href="https://github.com/welcksonvalentim" target="blank">
+    <img width=515px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
   </a>
-    <a href="https://github.com/WelcksonValentim-Turma15-TriboB" target="blank">
-    <img width=297px src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelcksonValentim-Turma15-TriboB&langs_count=8)">
+    <a href="https://github.com/welcksonvalentim" target="blank">
+    <img width=297px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
   </a>
 </section>
 
