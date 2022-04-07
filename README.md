@@ -31,7 +31,7 @@
 
 <section>
   <a href="https://github.com/welcksonvalentim" target="blank">
-    <img width=527px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
+    <img width=617px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
   </a>
     <a href="https://github.com/welcksonvalentim" target="blank">
     <img width=257px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
@@ -90,7 +90,7 @@
 
 <section>
   <a href="https://github.com/welcksonvalentim" target="blank">
-    <img width=527px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
+    <img width=617px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
   </a>
     <a href="https://github.com/welcksonvalentim" target="blank">
     <img width=257px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
