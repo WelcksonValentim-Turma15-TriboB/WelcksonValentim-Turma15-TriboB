@@ -23,7 +23,8 @@
   <ul align="left">
     <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
-    <li align="left">:white_check_mark: Docker | SQL | Node.JS | TypeScript</li>
+    <li align="left">:heavy_check_mark: Docker | SQL | Node.JS | TypeScript</li>
+    <li align="left">:white_check_mark: Estudando Java </li>
   </ul>
 </section>
 
@@ -82,7 +83,8 @@
   <ul align="left">
     <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
-    <li align="left">:white_check_mark: Docker | SQL |  Node.JS | TypeScript</li>
+    <li align="left">:heavy_check_mark: Docker | SQL |  Node.JS | TypeScript</li>
+    <li align="left">:white_check_mark: Studing Java </li>
   </ul>
 </section>
 
