@@ -6,7 +6,7 @@
   <img align="right" width=270px src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i555wna3lzpoicbvv0yq3pz8zv15lue1ruj0e328&rid=giphy.gif&ct=g" alt="GIF pessoa programadora">
   <h3>:man_technologist: Sobre mim</h3>
   <ul>
-    <li>:mortar_board: Estudante de Desenvolvimento de Software e Engenheiro Mecânico</li>
+    <li>:mortar_board: Desenvolvedor Full Stack e Engenheiro Mecânico</li>
     <li>:books: Aprendi sobre as ferramentas do FrontEnd e suas amplitudes</li>
     <li>:book: Atualmente estou aprendo manipular Docker dentro do tópico BackEnd</li>
     <li>:computer: Empolgado pela realização de um objetivo profissional, atuar com tecnologia</li>
@@ -24,7 +24,7 @@
     <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
     <li align="left">:heavy_check_mark: Docker | SQL | Node.JS | TypeScript</li>
-    <li align="left">:white_check_mark: Estudando Java </li>
+    <li align="left">:heavy_check_mark: Java | Hibernate | Quarkus | Spring | Junit5</li>
   </ul>
 </section>
 
@@ -35,7 +35,7 @@
     <img width=607px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
   </a>
     <a href="https://github.com/welcksonvalentim" target="blank">
-    <img width=257px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
+    <img width=237px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
   </a>
 </section>
 
@@ -84,7 +84,7 @@
     <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
     <li align="left">:heavy_check_mark: Docker | SQL |  Node.JS | TypeScript</li>
-    <li align="left">:white_check_mark: Studing Java </li>
+    <li align="left">:heavy_check_mark: Java | Hibernate | Quarkus | Spring | Junit5</li>
   </ul>
 </section>
 
@@ -95,7 +95,7 @@
     <img width=607px src="https://github-readme-stats.vercel.app/api?username=welcksonvalentim&show_icons=true&theme=dark)">
   </a>
     <a href="https://github.com/welcksonvalentim" target="blank">
-    <img width=257px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
+    <img width=237px src="https://github-readme-stats.vercel.app/api/top-langs/?username=welcksonvalentim&langs_count=8)">
   </a>
 </section>
 
