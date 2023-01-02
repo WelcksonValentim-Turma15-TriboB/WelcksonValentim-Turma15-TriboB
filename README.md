@@ -23,9 +23,10 @@
   <ul align="left">
     <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench | Eclipse</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
-    <li align="left">:heavy_check_mark: Docker | SQL | Node.JS | TypeScript</li>
+    <li align="left">:heavy_check_mark: Pyhton | boto3 | AWS</li>
+    <li align="left">:heavy_check_mark: Docker | Node.JS | TypeScript</li>
     <li align="left">:heavy_check_mark: Java | Hibernate | Quarkus | Spring | Junit5</li>
-    <li align="left">:heavy_check_mark: SQL | Mongodb</li>
+    <li align="left">:heavy_check_mark: SQL | Mongodb | Postgresql</li>
   </ul>
 </section>
 
@@ -82,11 +83,12 @@
   <img align="right"  width=270px src="https://raulgb.com/images/htmlCSSJsReactLogos.jpg" alt="Imagem de Frameworks (HTML. CSS, JAVASCRIPT, REACT)" />
   <h3 align="left">:pushpin: Tech Stack</h3>
   <ul align="left">
-    <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench</li>
+    <li align="left">:heavy_check_mark:  Visual Studio code | Git | GitHub | MySQL Workbench | Eclipse</li>
     <li align="left">:heavy_check_mark: React | React Testing library | JavaScript | HTML | CSS | Bootstrap</li>
-    <li align="left">:heavy_check_mark: Docker | SQL |  Node.JS | TypeScript</li>
+    <li align="left">:heavy_check_mark: Pyhton | boto3 | AWS</li>
+    <li align="left">:heavy_check_mark: Docker | Node.JS | TypeScript</li>
     <li align="left">:heavy_check_mark: Java | Hibernate | Quarkus | Spring | Junit5</li>
-    <li align="left">:heavy_check_mark: SQL | Mongodb</li>
+    <li align="left">:heavy_check_mark: SQL | Mongodb | Postgresql</li>
   </ul>
 </section>
 
